@@ -1,0 +1,33 @@
+/*Variables*/
+.menu {
+  padding-left: 30%;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  height: 100px;
+  align-items: center;
+  margin-bottom: 50px;
+  background-color: rgb(26, 127, 158);
+  background-image: linear-gradient(rgb(26, 127, 158), rgb(160, 172, 184));
+}
+
+/*Variables*/
+footer {
+  background-color: rgb(26, 127, 158);
+  background-image: linear-gradient(rgb(26, 127, 158), rgb(160, 172, 184));
+}
+footer p {
+  color: azure;
+  text-align: center;
+}
+
+h3 {
+  background-color: rgb(26, 127, 158);
+  background-image: linear-gradient(rgb(26, 127, 158), rgb(160, 172, 184));
+  color: azure;
+  text-align: center;
+}
+h3 p {
+  text-align: center;
+  margin: 50px;
+}/*# sourceMappingURL=origen.css.map */

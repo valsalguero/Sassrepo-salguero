@@ -1,0 +1,12 @@
+/*Variables*/
+$colorfondo: rgb(26, 127, 158);
+
+footer{
+background-color:$colorfondo; 
+background-image: linear-gradient($colorfondo, rgb(160, 172, 184));
+
+    p{color: azure;
+    text-align: center;}
+}
+
+

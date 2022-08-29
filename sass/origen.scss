@@ -1,0 +1,19 @@
+/*Variables*/
+$colorfondo: rgb(26, 127, 158);
+
+
+
+@import "menu";
+@import "footer";
+
+h3{background-color:$colorfondo; 
+    background-image: linear-gradient(rgb(26, 127, 158), rgb(160, 172, 184));
+    color: azure;
+    text-align: center;
+    
+    p{text-align: center;
+    margin: 50px;
+    }
+}
+
+
